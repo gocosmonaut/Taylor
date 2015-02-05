@@ -1,0 +1,106 @@
+/**
+ * @file
+ * Views Styling
+ */
+ 
+ div.view.view-employees table tr {
+	 vertical-align:top;
+	 line-height:135%;
+ }
+ 
+ .views-slideshow-controls-bottom {
+ 	display: none;
+ }
+ /*
+ .view-employees TD {
+ 	padding: 0px 12px 0px 0px;
+ 	width: 240px;
+ }
+ 
+ */
+ 
+ .view-communication .views-row {
+ 	/*float: left;
+ 	clear: both;*/
+ 	margin: 0 0 0 0;
+ 	padding: 0 0 20px 0;
+ }
+ 
+ .view-communication .view-footer P {
+ 	margin: 0 0 15px 0;
+ 	padding: 0 0 10px 0;
+	text-align: right;
+	font-weight: bold;
+	border-bottom: 1px solid #cfcbbf;
+ }
+ 
+ /*
+ 
+ #block-views-communication-block.block,
+ #block-views-communication-block-2.block,
+ #block-views-communication-block-1.block {
+ 	/*float: left;
+ 	width: 315px;
+ 	margin: 0 20px 0 0;
+ }
+ 
+ #block-block-9,
+ #block-views-communication-block-3,
+ #block-views-communication-block-4,
+  #block-views-communication-block-5
+  {
+ 	clear: right;
+ 	float: right;
+ 	width: 315px;
+ }
+
+ 
+ 
+ Staff Popup Styles 
+
+
+#colorbox #navigation,
+#colorbox #header,
+#colorbox .region-sidebar-second,
+#colorbox #region-bottom {
+	display: none;
+}
+
+#colorbox #main,
+#colorbox #page,
+#colorbox #page-wrapper {
+	float: left;
+	background-image: none;
+	width: 700px;
+	height: 500px;
+	border: 0px;
+	font-size: 14px;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+#colorbox .sidebar-second #content {
+    margin-left: 0px;
+    margin-right: -700px;
+    width: 700px;
+}
+
+#colorbox .with-navigation #content, 
+#colorbox .with-navigation .region-sidebar-first, 
+#colorbox .with-navigation .region-sidebar-second {
+	margin-top: 0px;
+}
+
+#colorbox #content .section {
+	padding: 0 0 0 0;
+}
+
+.views-field-field-position {
+	font-size: 	0.813em;
+	margin: 0 0 20px 0;
+	line-height: normal;
+}
+
+*/
+
+*/
